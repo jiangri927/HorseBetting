@@ -1,0 +1,18 @@
+
+[2020-09-23 22:40:39]  -> Trying to login
+[2020-09-23 22:40:40]  -> Login has been started!
+[2020-09-23 22:40:40]  -> The Scraper has been started!
+[2020-09-23 22:40:40]  -> mypp -> Login has been started!
+[2020-09-23 22:40:51]  -> mypp -> Login Success!
+[2020-09-23 22:40:51]  -> rl100 -> Login has been started!
+[2020-09-23 22:41:01]  -> rl100 -> Login Success!
+[2020-09-23 22:41:02]  -> Url Added: Hong Kong Happy Valley-8
+[2020-09-23 22:41:02]  -> UnSettled Bet:(rl018) Hong Kong Happy Valley-WIN/PLC(Race 8 Horse 1 Bet,3,3) is added
+[2020-09-23 22:41:07]  -> Sending request for rl018 HK(Hs) Happy Valley, Race 8, Horse1, Bet-3/3
+[2020-09-23 22:41:07]  -> Betting Successed  -->  rl018 HK(Hs) Happy Valley, Race 8, Horse1, Bet-3/3
+[2020-09-23 22:41:07]  -> UnsettledBet completed:  -->  rl018 HK(Hs) Happy Valley, Race 8, Horse1, Bet-3/3
+[2020-09-23 22:43:41]  -> The Scraper has been stopped!
+[2020-09-23 23:09:48]  -> Trying to login
+[2020-09-23 23:09:49]  -> Login has been started!
+[2020-09-23 23:09:49]  -> The Scraper has been started!
+[2020-09-23 23:09:49]  -> mypp -> Login has been started!

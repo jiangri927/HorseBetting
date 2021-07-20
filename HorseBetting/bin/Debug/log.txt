@@ -1,0 +1,452 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\f0\fs17 [2020-09-17 01:53:58]  -> Trying to login\par
+[2020-09-17 01:53:59]  -> Login has been started!\par
+[2020-09-17 01:53:59]  -> The Scraper has been started!\par
+[2020-09-17 01:53:59]  -> mypp -> Login has been started!\par
+[2020-09-17 01:54:10]  -> mypp -> Login Success!\par
+[2020-09-17 01:54:10]  -> rl100 -> Login has been started!\par
+[2020-09-17 01:54:33]  -> rl100 -> Login Success!\par
+[2020-09-17 01:54:34]  -> Url Added: USA Jacks/O.Park-6\par
+[2020-09-17 01:54:35]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 6 Horse 3 Bet,1000,1000) is added\par
+[2020-09-17 01:54:39]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:54:40]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1000/1000\par
+[2020-09-17 01:54:40]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:54:45]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:54:46]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-991/991\par
+[2020-09-17 01:54:46]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-4/4\par
+[2020-09-17 01:54:51]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:54:53]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-987/987\par
+[2020-09-17 01:54:53]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-8/8\par
+[2020-09-17 01:54:58]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:54:59]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-979/979\par
+[2020-09-17 01:54:59]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-8/8\par
+[2020-09-17 01:55:04]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:04]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-971/971\par
+[2020-09-17 01:55:04]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-4/4\par
+[2020-09-17 01:55:09]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:10]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-967/967\par
+[2020-09-17 01:55:10]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-2/2\par
+[2020-09-17 01:55:15]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:16]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-965/965\par
+[2020-09-17 01:55:16]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:55:21]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:21]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-956/956\par
+[2020-09-17 01:55:21]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:55:26]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:27]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-947/947\par
+[2020-09-17 01:55:27]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:55:32]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:33]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-946/946\par
+[2020-09-17 01:55:33]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:55:38]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:39]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-937/937\par
+[2020-09-17 01:55:39]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:55:44]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:45]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-936/936\par
+[2020-09-17 01:55:45]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:55:50]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:51]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-927/927\par
+[2020-09-17 01:55:51]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-2/2\par
+[2020-09-17 01:55:56]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:55:57]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-925/925\par
+[2020-09-17 01:55:57]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:56:02]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:03]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-916/916\par
+[2020-09-17 01:56:03]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:56:08]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:09]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-907/907\par
+[2020-09-17 01:56:09]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-2/2\par
+[2020-09-17 01:56:14]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:15]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-905/905\par
+[2020-09-17 01:56:15]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:56:20]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:21]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-904/904\par
+[2020-09-17 01:56:21]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:56:26]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:28]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-903/903\par
+[2020-09-17 01:56:28]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:56:33]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:34]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-894/894\par
+[2020-09-17 01:56:34]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-2/2\par
+[2020-09-17 01:56:39]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:40]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-892/892\par
+[2020-09-17 01:56:40]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-4/4\par
+[2020-09-17 01:56:45]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:46]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-888/888\par
+[2020-09-17 01:56:46]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-2/2\par
+[2020-09-17 01:56:51]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:52]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-886/886\par
+[2020-09-17 01:56:53]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-2/2\par
+[2020-09-17 01:56:58]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:56:58]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-884/884\par
+[2020-09-17 01:56:58]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-4/4\par
+[2020-09-17 01:57:03]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:04]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-880/880\par
+[2020-09-17 01:57:04]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-2/2\par
+[2020-09-17 01:57:09]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:09]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-878/878\par
+[2020-09-17 01:57:09]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-8/8\par
+[2020-09-17 01:57:14]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:15]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-870/870\par
+[2020-09-17 01:57:15]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:57:20]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:21]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-869/869\par
+[2020-09-17 01:57:21]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:57:26]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:27]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-860/860\par
+[2020-09-17 01:57:27]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:57:32]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:33]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-859/859\par
+[2020-09-17 01:57:33]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:57:38]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:39]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-850/850\par
+[2020-09-17 01:57:39]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:57:44]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:45]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-849/849\par
+[2020-09-17 01:57:45]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-8/8\par
+[2020-09-17 01:57:50]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:51]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-841/841\par
+[2020-09-17 01:57:51]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:57:56]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:57:56]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-832/832\par
+[2020-09-17 01:57:56]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-2/2\par
+[2020-09-17 01:58:01]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:02]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-830/830\par
+[2020-09-17 01:58:02]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:58:07]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:08]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-829/829\par
+[2020-09-17 01:58:08]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-8/8\par
+[2020-09-17 01:58:13]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:14]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-821/821\par
+[2020-09-17 01:58:14]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-10/10\par
+[2020-09-17 01:58:19]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:21]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-811/811\par
+[2020-09-17 01:58:21]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-2/2\par
+[2020-09-17 01:58:26]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:27]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-809/809\par
+[2020-09-17 01:58:27]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-10/10\par
+[2020-09-17 01:58:32]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:32]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-799/799\par
+[2020-09-17 01:58:33]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:58:38]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:38]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-790/790\par
+[2020-09-17 01:58:38]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-4/4\par
+[2020-09-17 01:58:43]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:44]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-786/786\par
+[2020-09-17 01:58:44]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:58:49]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:50]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-785/785\par
+[2020-09-17 01:58:50]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-4/4\par
+[2020-09-17 01:58:55]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:58:56]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-781/781\par
+[2020-09-17 01:58:56]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:59:01]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:59:01]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-780/780\par
+[2020-09-17 01:59:01]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-9/9\par
+[2020-09-17 01:59:06]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:59:07]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-771/771\par
+[2020-09-17 01:59:07]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 6, Horse3, Bet-1/1\par
+[2020-09-17 01:59:12]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:59:18]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:59:24]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:59:31]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:59:36]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:59:42]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:59:48]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 01:59:54]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 02:00:01]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 02:00:07]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 02:00:13]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+[2020-09-17 02:00:19]  -> Found Race Item(rl018)USA - Jacks/O.Park (US)\par
+}
+ [2020-09-17 02:19:08]  -> Trying to login
+[2020-09-17 02:19:12]  -> Login has been started!
+[2020-09-17 02:19:12]  -> The Scraper has been started!
+[2020-09-17 02:19:12]  -> mypp -> Login has been started!
+[2020-09-17 02:19:18]  -> The Scraper has been stopped!
+[2020-09-17 02:20:53]  -> Trying to login
+[2020-09-17 02:20:53]  -> Login has been started!
+[2020-09-17 02:20:53]  -> The Scraper has been started!
+[2020-09-17 02:20:53]  -> mypp -> Login has been started!
+[2020-09-17 02:21:05]  -> mypp -> Login Success!
+[2020-09-17 02:21:05]  -> rl100 -> Login has been started!
+[2020-09-17 02:21:19]  -> rl100 -> Login Success!
+[2020-09-17 02:21:51]  -> Url Added: USA Jacks/O.Park-9
+[2020-09-17 02:21:51]  -> Url Added: USA Jacks/O.Park-9
+[2020-09-17 02:21:52]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 9 Horse 1 Bet,200,200) is added
+[2020-09-17 02:21:57]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-200/200
+[2020-09-17 02:21:57]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-8/8
+[2020-09-17 02:22:03]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-192/192
+[2020-09-17 02:22:03]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-2/2
+[2020-09-17 02:22:09]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-190/190
+[2020-09-17 02:22:09]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-11/11
+[2020-09-17 02:22:15]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-179/179
+[2020-09-17 02:22:15]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-4/4
+[2020-09-17 02:22:20]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-175/175
+[2020-09-17 02:22:20]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-11/11
+[2020-09-17 02:22:26]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-164/164
+[2020-09-17 02:22:26]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-8/8
+[2020-09-17 02:22:32]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-156/156
+[2020-09-17 02:22:32]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-1/1
+[2020-09-17 02:22:38]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-155/155
+[2020-09-17 02:22:38]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-1/1
+[2020-09-17 02:22:44]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-154/154
+[2020-09-17 02:22:44]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-4/4
+[2020-09-17 02:22:49]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-150/150
+[2020-09-17 02:22:49]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-1/1
+[2020-09-17 02:22:55]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-149/149
+[2020-09-17 02:22:55]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-8/8
+[2020-09-17 02:23:01]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-141/141
+[2020-09-17 02:23:01]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-2/2
+[2020-09-17 02:23:07]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-139/139
+[2020-09-17 02:23:07]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-4/4
+[2020-09-17 02:23:13]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-135/135
+[2020-09-17 02:23:13]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-2/2
+[2020-09-17 02:23:18]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-133/133
+[2020-09-17 02:23:18]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-11/11
+[2020-09-17 02:23:24]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-122/122
+[2020-09-17 02:23:24]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-8/8
+[2020-09-17 02:23:29]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-114/114
+[2020-09-17 02:23:29]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-11/11
+[2020-09-17 02:23:35]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-103/103
+[2020-09-17 02:23:35]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-4/4
+[2020-09-17 02:23:40]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-99/99
+[2020-09-17 02:23:40]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-8/8
+[2020-09-17 02:23:46]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-91/91
+[2020-09-17 02:23:46]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-8/8
+[2020-09-17 02:23:52]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-83/83
+[2020-09-17 02:23:52]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-11/11
+[2020-09-17 02:23:58]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-72/72
+[2020-09-17 02:23:58]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-8/8
+[2020-09-17 02:24:03]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-64/64
+[2020-09-17 02:24:03]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-11/11
+[2020-09-17 02:24:09]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-53/53
+[2020-09-17 02:24:09]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-11/11
+[2020-09-17 02:24:15]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-42/42
+[2020-09-17 02:24:15]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-8/8
+[2020-09-17 02:24:21]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-34/34
+[2020-09-17 02:24:21]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-11/11
+[2020-09-17 02:24:27]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-23/23
+[2020-09-17 02:24:27]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-1/1
+[2020-09-17 02:24:33]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-22/22
+[2020-09-17 02:24:33]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 9, Horse1, Bet-11/11
+[2020-09-17 02:24:37]  -> The Scraper has been stopped!
+[2020-09-17 02:52:10]  -> Trying to login
+[2020-09-17 02:52:10]  -> Login has been started!
+[2020-09-17 02:52:10]  -> The Scraper has been started!
+[2020-09-17 02:52:10]  -> mypp -> Login has been started!
+[2020-09-17 02:52:25]  -> mypp -> Login Success!
+[2020-09-17 02:52:25]  -> rl100 -> Login has been started!
+[2020-09-17 02:52:39]  -> rl100 -> Login Success!
+[2020-09-17 02:52:42]  -> The Scraper has been stopped!
+[2020-09-17 03:19:42]  -> Trying to login
+[2020-09-17 03:19:42]  -> Login has been started!
+[2020-09-17 03:19:42]  -> The Scraper has been started!
+[2020-09-17 03:19:42]  -> mypp -> Login has been started!
+[2020-09-17 03:19:57]  -> mypp -> Login Success!
+[2020-09-17 03:19:57]  -> rl100 -> Login has been started!
+[2020-09-17 03:20:09]  -> rl100 -> Login Success!
+[2020-09-17 03:20:10]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,200,200) is added
+[2020-09-17 03:20:10]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 03:20:10]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-200/200
+[2020-09-17 03:20:10]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-11/11
+[2020-09-17 03:20:10]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,800,800) is added
+[2020-09-17 03:20:11]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 03:20:16]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-189/189
+[2020-09-17 03:20:16]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-10/10
+[2020-09-17 03:20:22]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-179/179
+[2020-09-17 03:20:22]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-8/8
+[2020-09-17 03:20:23]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-800/800
+[2020-09-17 03:20:23]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-11/11
+[2020-09-17 03:20:28]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-171/171
+[2020-09-17 03:20:28]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-2/2
+[2020-09-17 03:20:29]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-789/789
+[2020-09-17 03:20:29]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-2/2
+[2020-09-17 03:20:34]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-169/169
+[2020-09-17 03:20:34]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-1/1
+[2020-09-17 03:20:35]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-787/787
+[2020-09-17 03:20:35]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-2/2
+[2020-09-17 03:20:39]  -> The Scraper has been stopped!
+[2020-09-17 03:21:02]  -> Trying to login
+[2020-09-17 03:21:03]  -> Login has been started!
+[2020-09-17 03:21:03]  -> The Scraper has been started!
+[2020-09-17 03:21:03]  -> mypp -> Login has been started!
+[2020-09-17 03:21:11]  -> mypp -> Login Success!
+[2020-09-17 03:21:11]  -> rl100 -> Login has been started!
+[2020-09-17 03:21:19]  -> rl100 -> Login Success!
+[2020-09-17 03:21:19]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 03:21:19]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 03:21:20]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,200,200) is added
+[2020-09-17 03:21:20]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,800,800) is added
+[2020-09-17 03:21:25]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-200/200
+[2020-09-17 03:21:25]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-8/8
+[2020-09-17 03:21:26]  -> The Scraper has been stopped!
+[2020-09-17 03:21:35]  -> Trying to login
+[2020-09-17 03:21:36]  -> Login has been started!
+[2020-09-17 03:21:36]  -> The Scraper has been started!
+[2020-09-17 03:21:36]  -> mypp -> Login has been started!
+[2020-09-17 03:21:49]  -> mypp -> Login Success!
+[2020-09-17 03:21:49]  -> rl100 -> Login has been started!
+[2020-09-17 03:22:00]  -> rl100 -> Login Success!
+[2020-09-17 03:22:01]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 03:22:01]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 03:22:01]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,200,200) is added
+[2020-09-17 03:22:01]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,800,800) is added
+[2020-09-17 03:22:07]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-200/200
+[2020-09-17 03:22:07]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-2/2
+[2020-09-17 03:22:14]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-198/198
+[2020-09-17 03:22:14]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-2/2
+[2020-09-17 03:22:20]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-196/196
+[2020-09-17 03:22:20]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-4/4
+[2020-09-17 03:22:21]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-800/800
+[2020-09-17 03:22:21]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-9/9
+[2020-09-17 03:22:26]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-192/192
+[2020-09-17 03:22:26]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-4/4
+[2020-09-17 03:22:27]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-791/791
+[2020-09-17 03:22:27]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-8/8
+[2020-09-17 03:22:32]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-188/188
+[2020-09-17 03:22:32]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-10/10
+[2020-09-17 03:22:38]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-178/178
+[2020-09-17 03:22:38]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-11/11
+[2020-09-17 03:31:04]  -> Trying to login
+[2020-09-17 03:31:05]  -> Login has been started!
+[2020-09-17 03:31:05]  -> The Scraper has been started!
+[2020-09-17 03:31:05]  -> mypp -> Login has been started!
+[2020-09-17 03:31:21]  -> mypp -> Login Success!
+[2020-09-17 03:31:21]  -> rl100 -> Login has been started!
+[2020-09-17 03:31:30]  -> rl100 -> Login Success!
+[2020-09-17 03:31:30]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 03:31:30]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 03:31:47]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,200,200) is added
+[2020-09-17 03:32:17]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-200/200
+[2020-09-17 03:32:18]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-2/2
+[2020-09-17 03:32:31]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,800,800) is added
+[2020-09-17 03:32:36]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-198/198
+[2020-09-17 03:32:36]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-8/8
+[2020-09-17 03:32:43]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-190/190
+[2020-09-17 03:32:43]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-10/10
+[2020-09-17 03:32:48]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-180/180
+[2020-09-17 03:32:48]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-10/10
+[2020-09-17 03:32:54]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-170/170
+[2020-09-17 03:32:54]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-8/8
+[2020-09-17 03:33:00]  -> Sending request for rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-162/162
+[2020-09-17 03:33:00]  -> Betting Successed  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-10/10
+[2020-09-17 03:37:52]  -> UnsettledBet timeout:  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-48/0
+[2020-09-17 03:37:52]  -> UnsettledBet timeout:  -->  rl018 US(Dog) Jacks/O.Park, Race 12, Horse2, Bet-0/0
+[2020-09-17 03:38:06]  -> The Scraper has been stopped!
+[2020-09-17 04:06:28]  -> Trying to login
+[2020-09-17 04:06:28]  -> Login has been started!
+[2020-09-17 04:06:28]  -> The Scraper has been started!
+[2020-09-17 04:06:28]  -> mypp -> Login has been started!
+[2020-09-17 04:06:40]  -> mypp -> Login Success!
+[2020-09-17 04:06:40]  -> rl100 -> Login has been started!
+[2020-09-17 04:06:47]  -> rl100 -> Login Success!
+[2020-09-17 04:06:47]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 04:06:47]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 04:06:48]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,200,200) is added
+[2020-09-17 04:06:48]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,800,800) is added
+[2020-09-17 04:13:50]  -> Trying to login
+[2020-09-17 04:13:51]  -> Login has been started!
+[2020-09-17 04:13:51]  -> The Scraper has been started!
+[2020-09-17 04:13:51]  -> mypp -> Login has been started!
+[2020-09-17 04:14:01]  -> mypp -> Login Success!
+[2020-09-17 04:14:01]  -> rl100 -> Login has been started!
+[2020-09-17 04:14:10]  -> rl100 -> Login Success!
+[2020-09-17 04:14:11]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 04:14:11]  -> Url Added: USA Jacks/O.Park-12
+[2020-09-17 04:14:11]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,200,200) is added
+[2020-09-17 04:14:11]  -> UnSettled Bet:(rl018) USA Jacks/O.Park-WIN/PLC(Race 12 Horse 2 Bet,800,800) is added
+[2020-09-17 04:14:18]  -> The Scraper has been stopped!
+[2020-09-17 04:16:07]  -> Trying to login
+[2020-09-17 04:16:07]  -> Login has been started!
+[2020-09-17 04:16:07]  -> The Scraper has been started!
+[2020-09-17 04:16:07]  -> mypp -> Login has been started!
+[2020-09-17 04:16:15]  -> mypp -> Login Success!
+[2020-09-17 04:16:15]  -> rl100 -> Login has been started!
+[2020-09-17 04:16:28]  -> rl100 -> Login Success!
+[2020-09-17 04:16:48]  -> Url Added: USA Wheeling-15
+[2020-09-17 04:16:49]  -> UnSettled Bet:(rl018) USA Wheeling-WIN/PLC(Race 15 Horse 2 Bet,1000,1000) is added
+[2020-09-17 04:16:49]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-1000/1000
+[2020-09-17 04:16:49]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-9/9
+[2020-09-17 04:16:55]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-991/991
+[2020-09-17 04:16:55]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-1/1
+[2020-09-17 04:17:00]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-990/990
+[2020-09-17 04:17:00]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-8/8
+[2020-09-17 04:17:06]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-982/982
+[2020-09-17 04:17:06]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-3/3
+[2020-09-17 04:17:12]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-979/979
+[2020-09-17 04:17:12]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-2/2
+[2020-09-17 04:17:17]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-977/977
+[2020-09-17 04:17:17]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-4/4
+[2020-09-17 04:17:23]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-973/973
+[2020-09-17 04:17:23]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-8/8
+[2020-09-17 04:17:28]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-965/965
+[2020-09-17 04:17:28]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-3/3
+[2020-09-17 04:17:34]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-962/962
+[2020-09-17 04:17:34]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-11/11
+[2020-09-17 04:17:39]  -> Sending request for rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-951/951
+[2020-09-17 04:17:39]  -> Betting Successed  -->  rl018 US(Dog) Wheeling, Race 15, Horse2, Bet-11/11
+[2020-09-17 04:17:44]  -> The Scraper has been stopped!
+
+[2020-09-17 04:22:09]  -> Trying to login
+[2020-09-17 04:22:09]  -> Login has been started!
+[2020-09-17 04:22:09]  -> The Scraper has been started!
+[2020-09-17 04:22:09]  -> mypp -> Login has been started!
+[2020-09-17 04:22:20]  -> mypp -> Login Success!
+[2020-09-17 04:22:20]  -> rl100 -> Login has been started!
+[2020-09-17 04:22:31]  -> rl100 -> Login Success!
+[2020-09-17 04:22:32]  -> Url Added: USA Wheeling-15
+[2020-09-17 04:23:14]  -> Url Added: USA The Meadows-12
+[2020-09-17 04:23:14]  -> UnSettled Bet:(rl018) USA The Meadows-WIN/PLC(Race 12 Horse 1 Bet,1,1) is added
+[2020-09-17 04:23:18]  -> Sending request for rl018 US(Har) T. Meadows, Race 12, Horse1, Bet-1/1
+[2020-09-17 04:23:18]  -> Betting Successed  -->  rl018 US(Har) T. Meadows, Race 12, Horse1, Bet-1/1
+[2020-09-17 04:23:18]  -> UnsettledBet completed:  -->  rl018 US(Har) T. Meadows, Race 12, Horse1, Bet-1/0
+[2020-09-17 04:27:16]  -> The Scraper has been stopped!
+
+
+[2020-09-20 16:20:25]  -> Trying to login
+[2020-09-20 16:20:26]  -> Login has been started!
+[2020-09-20 16:20:26]  -> The Scraper has been started!
+[2020-09-20 16:20:26]  -> mypp -> Login has been started!
+[2020-09-20 16:20:30]  -> SiteLogin -> Error Occured! Response status code does not indicate success: 403 (Forbidden).
+[2020-09-20 16:20:30]  -> rl100 -> Login has been started!
+[2020-09-20 16:20:30]  -> SiteLogin -> Error Occured! Response status code does not indicate success: 403 (Forbidden).
+[2020-09-20 16:20:55]  -> The Scraper has been stopped!
+[2020-09-20 16:21:13]  -> Trying to login
+[2020-09-20 16:21:14]  -> Login has been started!
+[2020-09-20 16:21:14]  -> The Scraper has been started!
+[2020-09-20 16:21:14]  -> mypp -> Login has been started!
+[2020-09-20 16:21:27]  -> mypp -> Login Success!
+[2020-09-20 16:21:27]  -> rl100 -> Login has been started!
+[2020-09-20 16:21:36]  -> rl100 -> Login Success!
+[2020-09-20 16:21:37]  -> Url Added: Sha Tin Hong Kong-8
+[2020-09-20 16:21:38]  -> UnSettled Bet:(rl018) Sha Tin Hong Kong-WIN/PLC(Race 8 Horse 1 Bet,1,1) is added
+[2020-09-20 16:21:39]  -> Sending request for rl018 HK(Hs) Sha Tin, Race 8, Horse1, Bet-1/1
+[2020-09-20 16:21:39]  -> Betting Successed  -->  rl018 HK(Hs) Sha Tin, Race 8, Horse1, Bet-1/1
+[2020-09-20 16:21:39]  -> UnsettledBet completed:  -->  rl018 HK(Hs) Sha Tin, Race 8, Horse1, Bet-1/0
+[2020-09-20 16:22:31]  -> The Scraper has been stopped!
+[2020-09-21 21:50:29]  -> Trying to login
+[2020-09-21 21:50:31]  -> Login has been started!
+[2020-09-21 21:50:31]  -> The Scraper has been started!
+[2020-09-21 21:50:31]  -> mypp -> Login has been started!
+[2020-09-21 21:50:34]  -> SiteLogin -> Error Occured! Response status code does not indicate success: 403 (Forbidden).
+[2020-09-21 21:50:34]  -> rl100 -> Login has been started!
+[2020-09-21 21:50:34]  -> SiteLogin -> Error Occured! Response status code does not indicate success: 403 (Forbidden).
+[2020-09-21 21:50:59]  -> The Scraper has been stopped!
+[2020-09-21 21:52:01]  -> Trying to login
+[2020-09-21 21:52:09]  -> Login has been started!
+[2020-09-21 21:52:09]  -> The Scraper has been started!
+[2020-09-21 21:52:09]  -> mypp -> Login has been started!
+[2020-09-21 21:52:28]  -> mypp -> Login Success!
+[2020-09-21 21:52:28]  -> rl100 -> Login has been started!
+[2020-09-21 21:52:45]  -> rl100 -> Login Success!
+[2020-09-21 21:53:28]  -> The Scraper has been stopped!
+[2020-09-21 21:53:32]  -> Trying to login
+[2020-09-21 21:53:32]  -> Login has been started!
+[2020-09-21 21:53:32]  -> The Scraper has been started!
+[2020-09-21 21:53:32]  -> mypp -> Login has been started!
+[2020-09-21 21:55:33]  -> The Scraper has been stopped!
+[2020-09-21 21:55:33]  -> SiteLogin -> Error Occured! Thread was being aborted.
+[2020-09-21 21:55:33]  -> doLogin -> Error Occured! Thread was being aborted.
+[2020-09-21 21:55:33]  -> MainThreadError : Thread was being aborted.
+

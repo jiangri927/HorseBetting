@@ -1,0 +1,648 @@
+
+
+
+
+	
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script>document.domain = 'kle009.com';</script>
+<link REL="SHORTCUT ICON" HREF="">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+<title>Transaction History</title>
+
+<link href="CSS/themeA_master_v2.css" rel="stylesheet" type="text/css" />
+<link href="CSS/themeA_secondary_v2.css" rel="stylesheet" type="text/css" />
+<link href="CSS/themeA_txn.css" type="text/css" rel="stylesheet" />
+<link href="CSS/themeA_cards.css" type="text/css" rel="stylesheet" />
+<script type='text/javascript' src='js/jquery/jquery.js'></script>
+<script type='text/javascript' src='/js/new_history.js'></script>
+<script>
+
+$(document).ready(function (){
+	//if alert appears,
+	//means jqeury is available
+	
+	
+	
+		$(".qlink").slice(1, 3).css("display", "none");
+		$(".Qlink_btn").slice(2, 6).css("display", "none");
+	
+	
+	
+});
+
+
+function popUp(URL) {day = new Date();id = day.getTime();eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=800,height=500,left = 0,top = 0');");}
+function History(URL, id)  {
+	  
+	  var x = window.open(URL,"rl018_"+id+"wHST","width=1010,height=600,top=5,left=5, toolbar=no,menubar=no,resizable=no,scrollbars=yes,status=no,location=no,directories=no");
+	  x.focus();
+	  
+	}
+
+</script>
+</head>
+
+<body id="txn_body">
+<div id="wrapper">
+  <div id="outer">
+  <!--Header Start here--> 
+  
+      <div id="header">
+       <h1 id="trans_history">Transaction History</h1>
+       <div id="print"><p><a href="#" onClick="window.print()" >Print</a></p></div>
+      </div>
+     <div class="txn_set">
+     <p></p>
+                </div>
+<!-- For old txn_history page-->
+<!-- <div class="txn_set">
+     <p><a href='#' class="originalwvesion" onclick='window.location.replace("/history.jsp?uid=rl018&ori=1")'>exchange version</a></p>
+     </div>-->
+            
+  </div>
+
+  <!--Header End here--> 
+
+ <div id="alltxn_listbox">
+   
+       <div id="race_select_box"> 
+     
+        <div id="race_date"> </div> <div id="race_title">Today's Transaction List
+</div>
+       
+        <div id="race_type" class="race_type_icon">
+        <ul>
+        
+	        <li class="US_icon"><a href="#quick_link_197Y">Jacks/O.Park</a></li>
+	
+		
+        </ul>
+                 
+         </div> 
+          <div class="clear"></div>
+        </div>
+        </div> 
+      
+  <!-- Unsetted title start here-->
+  <div id="txn_window" class="txnlines_1">
+  <div class="Txn_titleline" id="Unsettled">
+      <div class="title_box">
+        <div class="box_l"></div>
+        <div class="box_c">
+         <p><span> unsettled </span></p><h3> WIN/PLC </h3>
+        </div>
+        <div class="box_r"></div>
+        <div class="qlink" ><a href="#Forecast">Forecast</a>  | <a href="#Quinella"> Quinella </a> | <a href="#settled_txn"> Settled Transactions </a>
+        </div>      
+        <div class="Qlink_btn" id="showAllBtn" style="cursor:pointer;display:none" onclick="showAll()">Expand All</div>
+		<div class="Qlink_btn" id="hideAllBtn" style="cursor:pointer;" onclick="hideAll()">Hide All</div>
+
+      </div>
+
+    <div class="clear"></div>  
+   </div> 
+  <!--container Start here-->
+    
+   <!--each Location Start here-->
+
+        
+
+	<div class="txn_wrapper" id="location_US">  
+
+
+                <!--Race Top Start here-->
+                <div class="Theader"></div>  
+        <div class="Race_Top">
+          <div class="race_infobox">
+             <div class="race_inner">
+              <div class="lca_tote">
+                <h3>Jacks/O.Park</h3>
+                <div class="tote US_div"><span>US Div </span></div>
+              </div>
+              <div class="race_numbs">
+                <dl>
+                  <dt>Race</dt>
+                  <dd>12</dd>
+                </dl>
+              </div>
+              <div class="clear"></div>
+            </div>    
+              <div class="race_infodetails">
+              <p>USA (Dog)</p>
+              <dl>
+              
+                  <dt><span>17 SEP 2020</span></dt>
+                  <dt>
+<span class="US_div"> US</span> Dividend
+</dt>
+              </dl>
+              </div>
+          </div>
+          <div class="overview_table" id="quick_link_197Y">
+          
+<table class="max_report" name="tbl_sum" id="tbl_sum_197Y_12" style="display:none;">
+<tr><th width="26">Hs</th><th width="120">Win </th>
+<th width="120">Place </th><th width="70">Avg. $</th><th width="80">Tax</th>
+<th width="174">Total</th><th width="30">&nbsp;</th></tr>
+             
+             <tr class="row_bet">
+             	
+                <td>2</td>
+                <td>1</td>
+                <td>1</td>
+                <td>4.17</td>
+                <td class="tax">0.02</td>
+                <td class="total_money"><span style="color: #FF0000;">($8.36)</span></td>
+                <td class="type">Bet</td>
+              </tr>
+			
+			 <tr id="197Y_12_1" >
+	  			<script>stuff('197Y_12_1', 'plus_blue', 'plus_blue',  '+1', '+1', false);</script>
+                 <td>&nbsp;</td>
+                <td><span class="plus_blue">+1</span></td>
+                <td><span class="plus_blue">+1</span></td>
+                <td>&nbsp;</td>
+                <td>0.02</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+              </tr>
+              
+              <!-- 2012-10-19 normal live separation -->
+              
+              
+            </table>
+            <table class="max_report" name="tbl_detail" id="tbl_detail_197Y_12">
+              <tr> 
+              	
+                <th width="26">Hs</th>
+                <th width="110">Win </th>
+                <th width="110">Place </th>
+                <th width="70" >$</th>
+                <th width="70">Limit</th>
+                <th width="70">Tax</th>
+                <th width="114">Total</th>
+                <th width="50">&nbsp;</th>
+              </tr>
+             
+              <tr class="row_bet">
+        		
+                <td>2</td>
+                <td>0.<sup>20</sup></td><td>0.<sup>20</sup></td>
+                <td>4.25</td>
+                <td>120/30</td>
+                <td>0.00</td>
+                <td><span style="color: #FF0000;">($1.72)</span></td>
+                <td class="type"><span style="cursor:pointer" class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="popUp('new_details.jsp?d=17-09-2020&type=197Y&m=BET&uid=rl018&rc=12&hs=2&amount=4.25&lw=120&lp=30&cat=wp&live=')">Bet</span></td>
+              </tr>
+             
+              <tr class="row_bet">
+        		
+                <td>2</td>
+                <td>0.<sup>80</sup></td><td>0.<sup>80</sup></td>
+                <td>4.15</td>
+                <td>120/30</td>
+                <td>0.02</td>
+                <td><span style="color: #FF0000;">($6.64)</span></td>
+                <td class="type"><span style="cursor:pointer" class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="popUp('new_details.jsp?d=17-09-2020&type=197Y&m=BET&uid=rl018&rc=12&hs=2&amount=4.15&lw=120&lp=30&cat=wp&live=')">Bet</span></td>
+              </tr>
+
+
+       <tr id="197Y_12_2_detail" >
+	  	<script>stuff('197Y_12_2_detail', 'plus_blue', 'plus_blue',  '+1', '+1', false);</script>
+        <td>&nbsp;</td>
+        <td><span class="plus_blue">+1</span></td>
+        <td><span class="plus_blue">+1</span></td>
+        <td>&nbsp;</td> <td>&nbsp;</td> <td>0.02</td>
+        <td>&nbsp;</td> <td>&nbsp;</td>
+      </tr>
+      <!-- 2012-10-19 normal live separation -->
+	  
+			      
+            </table>
+          </div>
+          <div class="clear"></div>
+          <div class="infobar">
+            <div class="E_H">
+              <p class="txn_expand" onmouseover="this.className='txn_expand_over'" onmouseout="this.className='txn_expand'" name="sum_197Y_12" id="sum_197Y_12" style="display:none;cursor:pointer" onclick="showSingleDetail('','197Y_12');">Expand</p>
+              <p class="txn_hide" onmouseover="this.className='txn_hide_over'" onmouseout="this.className='txn_hide'" name="detail_197Y_12" id="detail_197Y_12" style="cursor:pointer" onclick="showSingleSum('','197Y_12');">Hide</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <!--Race Top End here-->
+
+        
+
+ </div>
+
+   
+        <!--Race Top Start here-->
+        
+        <!--Race Top End here-->
+         
+         <!--Race below start here-->
+         
+        <!--Race below end here-->
+             
+     <!--each Location end here-->  
+
+    
+	<div class="Txn_titleline" id="Forecast" >
+      <div class="title_box">
+        <div class="box_l"></div>
+        <div class="box_c">
+         <p><span> unsettled </span></p><h3> Forecast</h3>
+        </div>
+        <div class="box_r"></div>
+        <div class="qlink"><a href="#Unsettled">WIN/PLC</a>  | <a href="#Quinella"> Quinella </a> | <a href="#settled_txn"> Settled Transactions</a>
+        </div>      
+        <div class="Qlink_btn" id="showAllFCBtn" style="cursor:pointer;display:none" onclick="showAllFC()">Expand All</div>
+		<div class="Qlink_btn" id="hideAllFCBtn" style="cursor:pointer;" onclick="hideAllFC()">Hide All</div>
+      </div>
+
+    <div class="clear"></div>  
+   </div> 
+   <!--each Location Start here-->
+    <!--Race Top Start here-->
+   
+
+	<div class="Txn_titleline" id="Quinella" >
+      <div class="title_box">
+        <div class="box_l"></div>
+        <div class="box_c">
+         <p><span> unsettled </span></p><h3>Quinella</h3>
+        </div>
+        <div class="box_r"></div>
+        <div class="qlink"><a href="#Unsettled">WIN/PLC</a>  | <a href="#Forecast"> Forecast </a> | <a href="#settled_txn"> Settled Transactions</a>
+        </div>      
+        <div class="Qlink_btn" id="showAllQBtn" style="display:none;cursor:pointer;" onclick="showAllQ()">Expand All</div>
+		<div class="Qlink_btn" id="hideAllQBtn" style="cursor:pointer;" onclick="hideAllQ()">Hide All</div>
+      </div>
+
+    <div class="clear"></div>  
+   </div> 
+
+   <!--each Location Start here-->
+
+
+
+
+
+
+  <!-- setted title start here-->
+  
+  <div class="Txn_titleline" id="settled_txn">
+      <div class="title_box">
+        <div class="box_l"></div>
+        <div class="box_c"><h3>Settled Transactions</h3></div>
+        <div class="box_r"></div>
+        <div class="qlink"><a href="#Unsettled">unsettled WIN/PLC</a>  |<a href="#Forecast">unsettled Forecast</a> | <a href="#Quinella">unsettled Quinella</a>
+        </div>      
+      </div>
+
+    <div class="clear"></div>  
+   </div> 
+   <!-- setted title end here--> 
+
+<div class="txn_wrapper_settled">  
+      <div class="Theader"></div>    
+        <!--Race Top Start here-->
+    <!--Race Top End here-->             
+    <!--each Location end here-->  
+  
+<div class="Race_each">
+  <div class="lca_date">
+    <h3>17 SEP 2020</h3>
+    <p>Thu</p>
+  </div>
+  <div class="overview_table">
+    <table class="max_report">
+      <tr>
+        <th class="location">Location</th>
+        <th>Tote</th><th>Total Tickets</th>
+        <th>Total Tax</th><th>Profit/Loss</th>
+        <th></th>
+      </tr>
+
+      <tr>
+        <td class="location VNU_US">USA (Dog)-Jacks/O.Park</td>
+        <td class="tote US_div">US</td>
+		
+        <td class="total_money">4</td>
+		
+        <td class="tax">$0.04</td>
+        <td class="total_money">$7.12</td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=17-09-2020&typ=197Y','197Y')" style="cursor:pointer">View</span></td>
+</tr>
+	
+       </table><div class="clear"></div></div><div class="space_settledtxn"></div></div></div>
+    
+<div class="txn_wrapper_settled">  
+      <div class="Theader"></div>    
+        <!--Race Top Start here-->
+    <!--Race Top End here-->             
+    <!--each Location end here-->  
+  
+<div class="Race_each">
+  <div class="lca_date">
+    <h3>14 SEP 2020</h3>
+    <p>Mon</p>
+  </div>
+  <div class="overview_table">
+    <table class="max_report">
+      <tr>
+        <th class="location">Location</th>
+        <th>Tote</th><th>Total Tickets</th>
+        <th>Total Tax</th><th>Profit/Loss</th>
+        <th></th>
+      </tr>
+
+      <tr>
+        <td class="location VNU_US">USA (Har)-Northfield Park</td>
+        <td class="tote US_div">US</td>
+		
+        <td class="total_money">3</td>
+		
+        <td class="tax">$0.03</td>
+        <td class="total_money">$23.22</td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=14-09-2020&typ=121Y','121Y')" style="cursor:pointer">View</span></td>
+</tr>
+	
+       </table><div class="clear"></div></div><div class="space_settledtxn"></div></div></div>
+    
+<div class="txn_wrapper_settled">  
+      <div class="Theader"></div>    
+        <!--Race Top Start here-->
+    <!--Race Top End here-->             
+    <!--each Location end here-->  
+  
+<div class="Race_each">
+  <div class="lca_date">
+    <h3>11 SEP 2020</h3>
+    <p>Fri</p>
+  </div>
+  <div class="overview_table">
+    <table class="max_report">
+      <tr>
+        <th class="location">Location</th>
+        <th>Tote</th><th>Total Tickets</th>
+        <th>Total Tax</th><th>Profit/Loss</th>
+        <th></th>
+      </tr>
+
+      <tr>
+        <td class="location VNU_AU">AU (Horse)-Cairns</td>
+        <td class="tote TB_div">TB</td>
+		
+        <td class="total_money">2</td>
+		
+        <td class="tax">$0.06</td>
+        <td class="total_money">$2.54</td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=11-09-2020&typ=40A','40A')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_AU">AU (Dog)-Goulburn</td>
+        <td class="tote TB_div">TB</td>
+		
+        <td class="total_money">2</td>
+		
+        <td class="tax">$0.02</td>
+        <td class="total_money"><span style="color: #FF0000;">($1.12)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=11-09-2020&typ=60A','60A')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_US">USA (Dog)-Southland(Twi)</td>
+        <td class="tote US_div">US</td>
+		
+        <td class="total_money">2</td>
+		
+        <td class="tax">$0.02</td>
+        <td class="total_money">$15.18</td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=11-09-2020&typ=92Y','92Y')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_US">USA (Dog)-Iowa/Dubuque E.</td>
+        <td class="tote US_div">US</td>
+		
+        <td class="total_money">10</td>
+		
+        <td class="tax">$0.10</td>
+        <td class="total_money"><span style="color: #FF0000;">($0.20)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=11-09-2020&typ=93Y','93Y')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_US">USA (Dog)-Jacks/O.Park E</td>
+        <td class="tote US_div">US</td>
+		
+        <td class="total_money">1</td>
+		
+        <td class="tax">$0.01</td>
+        <td class="total_money"><span style="color: #FF0000;">($4.51)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=11-09-2020&typ=95Y','95Y')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_US">USA (Har)-Yonkers Raceway</td>
+        <td class="tote US_div">US</td>
+		
+        <td class="total_money">2</td>
+		
+        <td class="tax">$0.02</td>
+        <td class="total_money"><span style="color: #FF0000;">($9.22)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=11-09-2020&typ=121Y','121Y')" style="cursor:pointer">View</span></td>
+</tr>
+	
+       </table><div class="clear"></div></div><div class="space_settledtxn"></div></div></div>
+    
+<div class="txn_wrapper_settled">  
+      <div class="Theader"></div>    
+        <!--Race Top Start here-->
+    <!--Race Top End here-->             
+    <!--each Location end here-->  
+  
+<div class="Race_each">
+  <div class="lca_date">
+    <h3>10 SEP 2020</h3>
+    <p>Thu</p>
+  </div>
+  <div class="overview_table">
+    <table class="max_report">
+      <tr>
+        <th class="location">Location</th>
+        <th>Tote</th><th>Total Tickets</th>
+        <th>Total Tax</th><th>Profit/Loss</th>
+        <th></th>
+      </tr>
+
+      <tr>
+        <td class="location VNU_NZ">NZ (Har)-Winton</td>
+        <td class="tote TB_div">TB</td>
+		
+        <td class="total_money">1</td>
+		
+        <td class="tax">$0.06</td>
+        <td class="total_money"><span style="color: #FF0000;">($8.46)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=10-09-2020&typ=176A','176A')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_NZ">NZ (Har)-Cambridge</td>
+        <td class="tote TB_div">TB</td>
+		
+        <td class="total_money">3</td>
+		
+        <td class="tax">$0.12</td>
+        <td class="total_money">$15.08</td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=10-09-2020&typ=177A','177A')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_AU">AU (Horse)-Ballina</td>
+        <td class="tote TB_div">TB</td>
+		
+        <td class="total_money">1</td>
+		
+        <td class="tax">$0.04</td>
+        <td class="total_money"><span style="color: #FF0000;">($144.04)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=10-09-2020&typ=39A','39A')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_AU">AU (Horse)-Hawkesbury</td>
+        <td class="tote TB_div">TB</td>
+		
+        <td class="total_money">2</td>
+		
+        <td class="tax">$0.04</td>
+        <td class="total_money"><span style="color: #FF0000;">($12.04)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=10-09-2020&typ=40A','40A')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_AU">AU (Har)-Tamworth</td>
+        <td class="tote TB_div">TB</td>
+		
+        <td class="total_money">2</td>
+		
+        <td class="tax">$0.06</td>
+        <td class="total_money">$8.14</td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=10-09-2020&typ=49A','49A')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_AU">AU (Dog)-The Meadows</td>
+        <td class="tote TB_div">TB</td>
+		
+        <td class="total_money">2</td>
+		
+        <td class="tax">$0.06</td>
+        <td class="total_money"><span style="color: #FF0000;">($14.76)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=10-09-2020&typ=60A','60A')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_US">USA (Horse)-Thistledown</td>
+        <td class="tote US_div">US</td>
+		
+        <td class="total_money">2</td>
+		
+        <td class="tax">$0.06</td>
+        <td class="total_money">$2.64</td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=10-09-2020&typ=116Y','116Y')" style="cursor:pointer">View</span></td>
+</tr>
+	
+      <tr>
+        <td class="location VNU_US">USA (Har)-Northfield Park</td>
+        <td class="tote US_div">US</td>
+		
+        <td class="total_money">4</td>
+		
+        <td class="tax">$0.08</td>
+        <td class="total_money"><span style="color: #FF0000;">($5.68)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=10-09-2020&typ=121Y','121Y')" style="cursor:pointer">View</span></td>
+</tr>
+	
+       </table><div class="clear"></div></div><div class="space_settledtxn"></div></div></div>
+    
+<div class="txn_wrapper_settled">  
+      <div class="Theader"></div>    
+        <!--Race Top Start here-->
+    <!--Race Top End here-->             
+    <!--each Location end here-->  
+  
+<div class="Race_each">
+  <div class="lca_date">
+    <h3>07 SEP 2020</h3>
+    <p>Mon</p>
+  </div>
+  <div class="overview_table">
+    <table class="max_report">
+      <tr>
+        <th class="location">Location</th>
+        <th>Tote</th><th>Total Tickets</th>
+        <th>Total Tax</th><th>Profit/Loss</th>
+        <th></th>
+      </tr>
+
+      <tr>
+        <td class="location VNU_AU">AU (Dog)-Lismore</td>
+        <td class="tote TB_div">TB</td>
+		
+        <td class="total_money">2</td>
+		
+        <td class="tax">$0.06</td>
+        <td class="total_money">$3.44</td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=07-09-2020&typ=64A','64A')" style="cursor:pointer">View</span></td>
+</tr>
+	
+       </table><div class="clear"></div></div><div class="space_settledtxn"></div></div></div>
+    
+<div class="txn_wrapper_settled">  
+      <div class="Theader"></div>    
+        <!--Race Top Start here-->
+    <!--Race Top End here-->             
+    <!--each Location end here-->  
+  
+<div class="Race_each">
+  <div class="lca_date">
+    <h3>04 SEP 2020</h3>
+    <p>Fri</p>
+  </div>
+  <div class="overview_table">
+    <table class="max_report">
+      <tr>
+        <th class="location">Location</th>
+        <th>Tote</th><th>Total Tickets</th>
+        <th>Total Tax</th><th>Profit/Loss</th>
+        <th></th>
+      </tr>
+
+      <tr>
+        <td class="location VNU_US">USA (Horse)-Gulfstream Park</td>
+        <td class="tote US_div">US</td>
+		
+        <td class="total_money">4</td>
+		
+        <td class="tax">$0.04</td>
+        <td class="total_money"><span style="color: #FF0000;">($17.24)</span></td>
+        <td><span class="txn_view" onmouseover="this.className='txn_view_over'" onmouseout="this.className='txn_view'" onclick="History('new_viewtransactions.jsp?uid=rl018&rd=04-09-2020&typ=116Y','116Y')" style="cursor:pointer">View</span></td>
+</tr>
+	
+       </table><div class="clear"></div></div><div class="space_settledtxn"></div></div></div>
+    
+</div></div><script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=78&cb=393765403"></script>
+</body>
+
+</html>
